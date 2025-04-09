@@ -1,3 +1,4 @@
+# achando os valores pares da lista:
 lista = [34,765,3,41,57,213,21,111,321,68]
 
 # solução com for loop:
